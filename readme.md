@@ -76,7 +76,9 @@ Settings -> Multitasking -> Hot Corner: disable
 
 On google drive \:)
 
-## Other stuff
+## Other
+
+Stuff that I don't want to forget.
 
 blueman icons: /usr/share/icons/hicolor/scalable/status
 
